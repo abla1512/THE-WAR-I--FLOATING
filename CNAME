@@ -1,5 +1,1 @@
-$ dig www.yannli.com +nostats +nocomments +nocmd  
-;www.yannli.com.                     IN      A
-www.yannli.com.              3592    IN      CNAME   abla1512.github.io.
-abla1512.github.io.           43192   IN      CNAME   github.map.fastly.net.
-github.map.fastly.net.        22      IN      A       199.27.76.133
+www.yannli.com
